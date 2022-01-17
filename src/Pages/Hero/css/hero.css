@@ -51,9 +51,6 @@ main {
 
 @media (min-width: 992px) {
   .bg-div {
-    padding: 9rem 3rem;
-  }
-  main {
-    border-radius: 18px;
+    padding: 1rem 0rem;
   }
 }
